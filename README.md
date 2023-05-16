@@ -29,7 +29,6 @@ src="https://img.shields.io/github/followers/DivyanshuNexus?logo=github&style=fo
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DivyanshuNexus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/divyanshu-k-268827255/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
@@ -39,4 +38,8 @@ src="https://img.shields.io/github/followers/DivyanshuNexus?logo=github&style=fo
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/DivyanshuNexus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuNexus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+    <br><br>
+    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:DivyanshuNexus"></a>
+</p>
 
