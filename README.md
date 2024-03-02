@@ -8,7 +8,6 @@ Web Developer and Designer
 * ✉️  You can contact me at [kumardivyansh124@gmail.com](mailto:kumardivyansh124@gmail.com)
 * 🧠  I'm learning Mern Stack
 * 🤝  I'm open to collaborating on website
-* ⚡  "Are you a Wi-Fi signal? Because I'm really feeling a connection." 😝
 
 <a href="https://www.github.com/DivyanshuNexus" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DivyanshuNexus?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
